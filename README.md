@@ -1,3 +1,5 @@
+# Applet Showcase
+
 A small project for dynamically or statically displaying my various Java applets.
 
 Use `php generateStatic.php` to create the static HTML assets.
