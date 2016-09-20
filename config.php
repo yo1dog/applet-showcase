@@ -1,6 +1,6 @@
 <?php $__APPLETS = [
 
-new Applet('Grid', 'grid', 400, 400, 'Grid.class', 'https://s3.amazonaws.com/mike-projects/Grid+Java/grid.jar',
+new Applet('Grid', 'grid', 400, 400, 'Grid.class', 'http://s3.awesomebox.net/Grid%20Java/grid.jar',
 <<<EOD
 <p>A Java version of the grid effect in my Windows game, Grid.</p>
 <h2>Instructions</h2>
@@ -17,7 +17,7 @@ new Applet('Grid', 'grid', 400, 400, 'Grid.class', 'https://s3.amazonaws.com/mik
 EOD
 ),
 
-new Applet('Tunnel', 'tunnel', 200, 300, 'Main.class', 'https://s3.amazonaws.com/mike-projects/Tunnel/tunnel.jar',
+new Applet('Tunnel', 'tunnel', 200, 300, 'Main.class', 'http://s3.awesomebox.net/Tunnel/tunnel.jar',
 <<<EOD
 <p>A simple 2D scroller in which you must click your mouse to keep your line from touching the top and bottom of the tunnel. The difficulty progresses with the level.</p>
 <h2>Instructions</h2>
@@ -25,7 +25,7 @@ new Applet('Tunnel', 'tunnel', 200, 300, 'Main.class', 'https://s3.amazonaws.com
 EOD
 ),
 
-new Applet('Turrets', 'turrets', 400, 500, 'Main.class', 'https://s3.amazonaws.com/mike-projects/Turrets/turrets.jar',
+new Applet('Turrets', 'turrets', 400, 500, 'Main.class', 'http://s3.awesomebox.net/Turrets/turrets.jar',
 <<<EOD
 <p>Turrets is a Tower Defense-style game in the making. So far there are five tower types; Electric, Gun, Laser, Fire, and Air.</p>
 EOD
